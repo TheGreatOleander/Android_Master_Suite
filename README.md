@@ -80,7 +80,7 @@ Expansion blueprint available in `/architecture/`.
 ## Repository Structure
 
 ```
-XDA-Master-Toolkit/
+Android-Master-Toolkit/
 │
 ├── architecture/          → Master blueprint & roadmap
 ├── tools/                 → All 15 tool directories

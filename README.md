@@ -1,4 +1,4 @@
-# XDA Master Toolkit
+# Android Master Toolkit
 
 **The Complete Android Modification Ecosystem**  
 Safe. Systematic. Modern.

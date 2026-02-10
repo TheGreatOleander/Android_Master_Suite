@@ -1,0 +1,23 @@
+# KernelForge Requirements
+# Part of XDA Master Toolkit
+
+# Core Python Requirements
+# KernelForge is designed to work with standard library only
+# Python 3.7+ required
+
+# Optional system tools (install via package manager):
+# - abootimg: Boot image extraction/packing
+# - mkbootimg: Android boot image creation
+# - android-tools-fastboot: Fastboot flashing
+# - file: File type detection
+# - gzip/xz-utils/bzip2/lz4: Decompression tools
+# - strings: Binary string extraction
+
+# Install on Ubuntu/Debian:
+# sudo apt-get install -y abootimg android-tools-mkbootimg android-tools-fastboot file gzip xz-utils bzip2 lz4
+
+# Install on macOS:
+# brew install android-platform-tools coreutils
+
+# No Python package dependencies required!
+# KernelForge uses only Python standard library for maximum compatibility
